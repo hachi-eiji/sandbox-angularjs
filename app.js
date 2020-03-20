@@ -16,8 +16,7 @@ const requires = [
   'home',
 ];
 window.initializeAngularElements().then(function(){
-window.app = angular.module('app', requires);
-angular.bootstrap(document.getElementById('app'), ['app']);
-
+  window.app = angular.module('app', requires);
+  angular.bootstrap(document.getElementById('app'), ['app']);
 })
 
