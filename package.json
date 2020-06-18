@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@uirouter/angularjs": "1.0.15",
-    "angular": "1.6.9",
+    "angular": "1.8.0",
     "ng-custom-element": "^2.0.3"
   }
 }
